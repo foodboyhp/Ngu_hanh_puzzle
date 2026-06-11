@@ -151,15 +151,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -2258884189821979114, guid: 83bfde1d0b6a7d64a9c4a9ff9f6b881e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.14, y: 0.14}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &3714711853225153810
@@ -324,7 +324,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cooldownDuration: 2
   energyCost: 10
-  audioSource: {fileID: 0}
   abilityParticles: {fileID: 0}
   tremorRadius: 3
   tremorStunTime: 2
@@ -350,7 +349,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cooldownDuration: 2
   energyCost: 10
-  audioSource: {fileID: 0}
   abilityParticles: {fileID: 0}
   dashForce: 18
   dashDuration: 0.2
@@ -376,7 +374,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cooldownDuration: 2
   energyCost: 10
-  audioSource: {fileID: 0}
   abilityParticles: {fileID: 0}
   pullRadius: 5
   pullForce: 10
@@ -403,7 +400,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cooldownDuration: 2
   energyCost: 10
-  audioSource: {fileID: 0}
   abilityParticles: {fileID: 0}
   waterProjectilePrefab: {fileID: 0}
   projectileSpeed: 10
@@ -429,7 +425,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cooldownDuration: 2
   energyCost: 10
-  audioSource: {fileID: 0}
   abilityParticles: {fileID: 0}
   vinePlatformPrefab: {fileID: 0}
   vineLifetime: 5
