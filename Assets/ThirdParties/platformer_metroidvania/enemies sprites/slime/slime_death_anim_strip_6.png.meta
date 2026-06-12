@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_death_anim_strip_6_0: -619481976519917459
+      slime_death_anim_strip_6_1: -4070623177008022339
+      slime_death_anim_strip_6_2: 4250375330769356045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

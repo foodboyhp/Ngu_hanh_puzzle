@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rabit_idle_anim_0: 3634238526545027749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

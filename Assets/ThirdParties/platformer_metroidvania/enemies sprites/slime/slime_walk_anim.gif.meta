@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_walk_anim_0: 7419879836057295262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      slime_hit_anim_strip_3_0: 5700571365488146070
+      slime_hit_anim_strip_3_1: -2615309591851497
+      slime_hit_anim_strip_3_2: -9085390894938971011
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

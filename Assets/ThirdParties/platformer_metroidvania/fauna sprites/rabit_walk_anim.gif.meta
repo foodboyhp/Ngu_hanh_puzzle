@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rabit_walk_anim_0: 1115422143429355519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
