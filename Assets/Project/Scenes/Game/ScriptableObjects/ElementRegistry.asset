@@ -13,6 +13,16 @@ MonoBehaviour:
   m_Name: ElementRegistry
   m_EditorClassIdentifier: 
   elements:
+  - type: 1
+    displayName: 
+    description: 
+    primaryColor: {r: 0, g: 0, b: 0, a: 0}
+    secondaryColor: {r: 0, g: 0, b: 0, a: 0}
+    icon: {fileID: 0}
+    absorbSound: {fileID: 0}
+    activateSound: {fileID: 0}
+    absorbVFXPrefab: {fileID: 0}
+    abilityVFXPrefab: {fileID: 0}
   - type: 5
     displayName: 
     description: 
@@ -24,16 +34,6 @@ MonoBehaviour:
     absorbVFXPrefab: {fileID: 0}
     abilityVFXPrefab: {fileID: 0}
   - type: 2
-    displayName: 
-    description: 
-    primaryColor: {r: 0, g: 0, b: 0, a: 0}
-    secondaryColor: {r: 0, g: 0, b: 0, a: 0}
-    icon: {fileID: 0}
-    absorbSound: {fileID: 0}
-    activateSound: {fileID: 0}
-    absorbVFXPrefab: {fileID: 0}
-    abilityVFXPrefab: {fileID: 0}
-  - type: 1
     displayName: 
     description: 
     primaryColor: {r: 0, g: 0, b: 0, a: 0}

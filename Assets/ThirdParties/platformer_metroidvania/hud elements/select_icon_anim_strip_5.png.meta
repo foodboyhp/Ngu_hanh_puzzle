@@ -63,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      select_icon_anim_strip_5_0: -6050010393468816757
+      select_icon_anim_strip_5_1: -6192768466440780479
+      select_icon_anim_strip_5_2: 2293951635538862453
+      select_icon_anim_strip_5_3: -538775586369630211
+      select_icon_anim_strip_5_4: 1493906782960857946
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

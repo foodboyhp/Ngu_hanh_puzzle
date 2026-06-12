@@ -57,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      herochar_jump_down_anim_strip_3_0: 8961969406314552355
+      herochar_jump_down_anim_strip_3_1: -5279389819937096996
+      herochar_jump_down_anim_strip_3_2: 1674600674433128033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
